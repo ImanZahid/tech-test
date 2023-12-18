@@ -1,0 +1,53 @@
+{
+  "Intune Key Capabilities": [
+    {
+      "title": "Device Management Across Platforms",
+      "image": "assets/images/DeviceManagementAcrossPlatforms.svg",
+      "description": "Intune securely manages device enrollment across Android, iOS/iPad, macOS, and Windows, orchestrating registration, certificate installation, and access to internal resources."
+    },
+    {
+      "title": "Application Management",
+      "image": "assets/images/ApplicationManagement.svg",
+      "description": "Intune enables access to corporate applications from any device, streamlining management and optimizing the digital workspace."
+    },
+    {
+      "title": "Security and Compliance",
+      "image": "assets/images/IntegrationwithMicrosoftDefenderAntivirus.svg",
+      "description": "Microsoft Intune integrates with GDPR, HIPAA, and industry standards, providing data security features like loss prevention, encryption, and compliance monitoring."
+    }
+  ],
+  "Intune Endpoint Protection": [
+    {
+      "title": "Integration with Microsoft Defender Antivirus",
+      "image": "assets/images/IntegrationwithMicrosoftDefenderAntivirus.svg",
+      "description": "Intune collaborates with Microsoft Defender for Endpoint, broadening its scope to offer comprehensive security solutions."
+    },
+    {
+      "title": "Threat Detection and Response",
+      "image": "assets/images/ThreatDetectionandResponse.svg",
+      "description": "Intune employs threat intelligence and machine learning algorithms to identify and mitigate potential risks."
+    },
+    {
+      "title": "Collaboration and Productivity",
+      "image": "assets/images/CollaborationandProductivity.svg",
+      "description": "Intune leverages Azure Active Directory for integration with various Microsoft 365 services. This integration enables automatic policy deployment based on user roles and groups."
+    }
+  ],
+  "Intune Workplace Management": [
+    {
+      "title": "Supporting Remote Work",
+      "image": "assets/images/SupportingRemoteWork.svg",
+      "description": "Intune tackles this challenge by offering flexible device policies and an intuitive role-based access control (RBAC) model, enabling businesses to manage access privileges."
+    },
+    {
+      "title": "Corporate-Owned and BYOD Management",
+      "image": "assets/images/CorporateOwnedandBYODManagement.svg",
+      "description": "Intune's MDM and MAM capabilities guarantee regulatory compliance and smooth device functionality, enhancing user experiences while safeguarding organizational assets."
+    },
+    {
+      "title": "Self-Service Portals",
+      "image": "assets/images/SelfServicePortals.svg",
+      "description": "Self-service portals have become indispensable tools, and Intune's cutting-edge offering, Microsoft Entra ID, is leading the way in revolutionizing user interaction."
+    }
+  ]
+}

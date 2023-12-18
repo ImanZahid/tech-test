@@ -1,0 +1,56 @@
+.root:hover {
+  border: 2px solid rgb(245, 186, 132);
+}
+
+.root {
+  margin-bottom: 20px;
+  text-align: center;
+  min-width: 300px;
+  border-radius: 12px;
+  border: 2px solid #c5c5c5;
+  background-color: #fff;
+  width: 290px;
+  height: 290px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.root p {
+  color: rgb(88, 88, 88);
+  display: block;
+  font-size: 14px;
+  font-stretch: 100%;
+  line-height: 24.92px;
+  margin-block-end: 120px;
+  margin-block-start: 0px;
+  max-width: 80%;
+}
+
+.root h3 {
+  color: rgb(88, 88, 88);
+  font-stretch: 100%;
+  font-weight: 600px;
+  font-size: 18px;
+  font-weight: 600;
+  box-sizing: border-box;
+  line-height: 26.875px;
+  margin-block-end: 15px;
+  margin-block-start: 75px;
+}
+
+.img {
+  background-color: #1c1740;
+  width: 90px;
+  height: 90px;
+  position: absolute;
+  top: -45px;
+  left: 50%;
+  transform: translateX(-50%);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  vertical-align: middle;
+}
